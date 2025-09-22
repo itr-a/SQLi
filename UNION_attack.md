@@ -12,7 +12,7 @@
 - **Impact:** By injecting payload, result shows how may colmuns the data has.
 
 ## Proof of Concept  
-![Payload executed successfully](https://github.com/itr-a/SQLi/blob/main/Assets/UNION.png)  
+<img src="https://github.com/itr-a/SQLi/blob/main/Assets/UNION.png" alt="figure1" width="500"/>  
 *figure 1 - Website showing data
 
 ##  Remediation
