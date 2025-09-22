@@ -11,8 +11,7 @@
 - **Description:** Malicious UNION payload reveales number of colmuns of the data.  
 - **Impact:** By injecting payload, result shows how may colmuns the data has.
 
-## Proof of Concept 
-Commands, requests, or screenshots (redacted if sensitive).  
+## Proof of Concept  
 ![Payload executed successfully](https://github.com/itr-a/SQLi/blob/main/Assets/UNION.png)  
 *figure 1 - Website showing data
 
