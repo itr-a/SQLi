@@ -4,4 +4,4 @@
 [PortSwigger Web Security Academy | SQL Injection](https://portswigger.net/web-security/learning-paths/sql-injection)
 
 ## Notes
-[UNION Attacks]()
+[UNION Attacks](https://github.com/itr-a/SQLi/blob/main/UNION_attack.md)
