@@ -9,3 +9,4 @@ It does not contain client data — all findings are from legal labs and practic
 
 ## Notes
 [UNION Attacks](https://github.com/itr-a/SQLi/blob/main/UNION_attack.md)
+[Find colmun with text](https://github.com/itr-a/SQLi/blob/main/Text_columns.md)
