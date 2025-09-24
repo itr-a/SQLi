@@ -8,5 +8,5 @@ This is an educational portfolio to demonstrate my hands-on skills, problem solv
 It does not contain client data — all findings are from legal labs and practice platforms (PortSwigger).
 
 ## Notes
-[UNION Attacks](https://github.com/itr-a/SQLi/blob/main/UNION_attack.md)
+[UNION Attacks](https://github.com/itr-a/SQLi/blob/main/UNION_attack.md)  
 [Find colmun with text](https://github.com/itr-a/SQLi/blob/main/Text_columns.md)
