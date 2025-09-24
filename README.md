@@ -9,5 +9,5 @@ It does not contain client data — all findings are from legal labs and practic
 
 ## Notes
 [1.UNION Attacks](https://github.com/itr-a/SQLi/blob/main/1.UNION_attack.md)  
-[1-1.Find String Column](https://github.com/itr-a/SQLi/blob/main/1-1.Find_String_Column.md)
-[1-2.Retrieve Interesting Information](https://github.com/itr-a/SQLi/blob/main/1-2.Retrieve_Data.md)
+[1-1.Find String Column](https://github.com/itr-a/SQLi/blob/main/1-1.Find_String_Column.md)  
+[1-2.Retrieve Interesting Information](https://github.com/itr-a/SQLi/blob/main/1-2.Retrieve_Data.md)  
