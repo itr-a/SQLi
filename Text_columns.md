@@ -10,10 +10,10 @@
 - **Impact:** If credential data was stoled, it would let unauthorized access available.   
 
 ## Proof of Concept   
-<img src="<img src="https://github.com/itr-a/SQLi/blob/main/Assets/UNION.png" alt="figure1" width="500"/>   
+<img src="https://github.com/itr-a/SQLi/blob/main/Assets/UNION.png" alt="figure1" width="500"/>   
 *figure 1 - Lab home page after payload executed    
 
-<img src="<img src="https://github.com/itr-a/SQLi/blob/main/Assets/find_string_data_payload.png" alt="figure2" width="500"/>   
+<img src="https://github.com/itr-a/SQLi/blob/main/Assets/find_string_data_payload.png" alt="figure2" width="500"/>   
 *figure 2 - Payload
 
 ##  Remediation
